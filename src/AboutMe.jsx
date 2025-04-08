@@ -1,3 +1,4 @@
+// display the about me section
 function About() {
     return (
         <div>

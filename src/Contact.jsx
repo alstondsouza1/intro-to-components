@@ -1,3 +1,4 @@
+// display contact information
 function Contact() {
     return (
         <div>

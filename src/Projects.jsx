@@ -1,3 +1,4 @@
+// displays projects worked on
 function Projects() {
     return (
         <div>
